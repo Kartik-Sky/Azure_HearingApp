@@ -1,1 +1,1 @@
-from .function_app import app
+from .main import app
